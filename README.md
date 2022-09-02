@@ -23,21 +23,25 @@ fields_of_interests:
   ]
 technical_background:
   [
-    Java:
-      - Spring & Springboot
-      - Hibernate, JPA & Spring Data JPA
-    Database:
-      - SQL Server
-      - MySQL
-    Fonet-end:
-      - Javascript
-      - HTML
-      - CSS 
-      - React JS
-      - Angular JS & Angular
+    "Back-end":{
+        Java,
+        Spring, Springboot, Spring Cloud
+        Hibernate, JPA & Spring Data JPA
+      }
+    "Database":{
+        SQL Server
+        MySQL
+      }
+    "Fonet-end":{
+        Javascript
+        HTML
+        CSS 
+        React JS
+        Angular JS & Angular
+      }
   ]
   
 currently_learning: ["AWS"]
-2022 Goals: ["Create few Projects and learn 5 new things."]
+2022 Goals: ["Create few Projects and learn new things."]
 hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 ```
